@@ -1,8 +1,5 @@
 package com.vivideatsfinal.volleycustomlistview;
 
-/**
- * Created by Ryan on 12/16/2015.
- */
 import android.app.Application;
 import android.text.TextUtils;
 

@@ -1,8 +1,5 @@
 package com.vivideatsfinal.model;
 
-/**
- * Created by Ryan on 12/16/2015.
- */
 public class Events {
     private int id;
     private String name;

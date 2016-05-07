@@ -1,8 +1,5 @@
 package com.vivideatsfinal.util;
 
-/**
- * Created by Ryan on 12/17/2015.
- */
 import android.graphics.Bitmap;
 import android.support.v4.util.LruCache;
 

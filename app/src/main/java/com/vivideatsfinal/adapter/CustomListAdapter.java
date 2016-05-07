@@ -1,9 +1,5 @@
 package com.vivideatsfinal.adapter;
 
-/**
- * Created by Ryan on 12/1/2015.
- */
-
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;
